@@ -1,7 +1,0 @@
-UI.c:25:6:initUI	8	static
-UI.c:36:6:setUI	56	static
-UI.c:116:6:handleUIUpdate	128	static
-UI.c:528:6:changeUI	16	static
-UI.c:541:6:doUIUpdate10	4	static
-UI.c:544:6:doUIUpdate500	4	static
-UI.c:548:6:dismissAlarmOnUI	24	static
