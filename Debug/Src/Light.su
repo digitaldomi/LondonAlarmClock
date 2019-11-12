@@ -1,0 +1,10 @@
+Light.c:25:6:initLight	24	static
+Light.c:45:6:startSunrise	16	static
+Light.c:54:6:stopSunrise	4	static
+Light.c:60:6:setLEDColor	24	static
+Light.c:70:6:handleSunrise	16	static
+Light.c:151:5:getSunriseValue	4	static
+Light.c:155:9:getSunriseDurationMin	4	static
+Light.c:159:6:setSunriseDurationMin	16	static
+Light.c:168:6:doSunriseUpdate	4	static
+Light.c:236:6:ledSunset	16	static

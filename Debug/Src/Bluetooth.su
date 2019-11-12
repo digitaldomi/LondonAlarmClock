@@ -1,0 +1,6 @@
+Bluetooth.c:20:6:initBluetooth	24	static
+Bluetooth.c:24:6:bluetoothCmdParse	64	dynamic
+Bluetooth.c:58:6:HAL_UART_RxCpltCallback	16	static
+Bluetooth.c:64:6:printBT	24	static
+Bluetooth.c:69:6:handleBluetoothCmd	16	static
+Bluetooth.c:80:6:startBluetoothListener	8	static

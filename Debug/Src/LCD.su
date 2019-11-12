@@ -1,0 +1,9 @@
+LCD.c:23:6:initLCD	104	static
+LCD.c:98:6:clearLCD	8	static
+LCD.c:104:6:printLCD	32	static
+LCD.c:128:6:printLCDCustomChar	24	static
+LCD.c:148:6:sendLCDCmd	40	static
+LCD.c:171:6:sendLCDData	40	static
+LCD.c:195:6:doBacklightOn	4	static
+LCD.c:199:6:doBacklightOff	4	static
+LCD.c:203:9:getBacklightState	4	static

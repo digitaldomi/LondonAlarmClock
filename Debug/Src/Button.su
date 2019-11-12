@@ -1,0 +1,4 @@
+Button.c:14:6:buttonUpdate	4	static
+Button.c:18:6:initButtons	4	static
+Button.c:31:9:getButtonState	24	static
+Button.c:51:6:handleButtonUpdate	8	static
